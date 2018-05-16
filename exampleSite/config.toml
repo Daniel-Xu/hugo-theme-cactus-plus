@@ -61,6 +61,8 @@ hasCJKLanguage = false
 	enableShare = true
 	tweet = ""
 	share = ""
+  weiboAppid="1554438949"
+  weiboUserid="6550765111"
 
 	# 404 page
 	title404 = ""
